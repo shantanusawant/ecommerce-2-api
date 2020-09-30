@@ -1,4 +1,4 @@
-eCommerce 2 **API** Tutorial Series
+E-Commerce 2 **API** Tutorial Series
 =========
 
 eCommerce 2 API is a step-by-step guide to implementing an RESTful API into your [eCommerce 2 project](https://github.com/codingforentrepreneurs/ecommerce-2) using the Django Rest Framework, Django Rest Framework JWT, Django CORS Headers, and more. 
